@@ -2,6 +2,7 @@
 // import styles from "./page.module.css";
 
 import{ Profile } from  "@/components/Profile";
+import Todolist from "@/components/Todolist";
 
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
     <div>
       <h1>iae mamae</h1>
       <Profile/>
+      <Todolist/>
      </div>
   )
 }
