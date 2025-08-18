@@ -7,11 +7,12 @@ import {Todolist} from "@/components/Todolist";
 
 export default function Home() {
   return (
-    <div>
+    <section>
       <h1>iae mamae</h1>
-      <Profile/>
-      <Todolist/>
-     </div>
+      <Profile />
+      <Todolist />
+      <hr/>
+    </section>
   )
 }
  
