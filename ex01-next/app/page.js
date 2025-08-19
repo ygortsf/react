@@ -2,7 +2,7 @@
 // import styles from "./page.module.css";
 
 import{ Profile } from  "@/components/Profile";
-import { Todolist } from "@/components/Todolist";
+import { TodoList } from "@/components/Todolist";
 
 
 export default function Home() {
@@ -10,7 +10,7 @@ export default function Home() {
     <section>
       <h1>iae mamae</h1>
       <Profile />
-      <Todolist />
+      <TodoList />
       <hr/>
     </section>
   )
