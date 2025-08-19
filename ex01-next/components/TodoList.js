@@ -1,11 +1,11 @@
-export  function Todolist(){
-    return(
+export function Todolist(){
+  return(
     <div>
          <h1>Hedy Lamarr's Todos</h1>
     <img 
       src="https://i.imgur.com/yXOvdOSs.jpg" 
       alt="Hedy Lamarr" 
-      class="photo"
+      className="photo"
     />
     <ul>
       <li>Invent new traffic lights</li>
@@ -13,5 +13,5 @@ export  function Todolist(){
       <li>Improve the spectrum technology</li>
     </ul>
     </div>
-    );
+  );
 }
