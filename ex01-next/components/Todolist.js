@@ -1,4 +1,4 @@
-export default function Todolist(){
+export  function Todolist(){
     return(
     <div>
          <h1>Hedy Lamarr's Todos</h1>
