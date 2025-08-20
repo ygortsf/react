@@ -13,6 +13,6 @@ export default function Home() {
       <TodoList />
       <hr/>
     </section>
-  )
+  );
 }
  
