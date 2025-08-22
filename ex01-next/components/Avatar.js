@@ -1,6 +1,6 @@
 import { getImageUrl } from "./util";
 
-export function Avatar({person, size = 100, isSepia, thickBorder}){
+export function Avatar({person, size = 100,}){
     return(
         <img
         className="avatar"

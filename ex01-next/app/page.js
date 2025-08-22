@@ -11,10 +11,9 @@ export default function Home() {
     <section>
       <h1>iae mamae</h1>
       <Profile 
-      size ={100}
       person={{
         name: "katsuko Saruhashi",
-        imageId: "OKS67lh",
+        imageId: "1bX5QH6",
         
       }}
       />

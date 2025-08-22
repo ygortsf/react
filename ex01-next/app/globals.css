@@ -40,3 +40,8 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.avatar {
+  border-radius: 50%;
+}
